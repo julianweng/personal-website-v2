@@ -9,7 +9,11 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@nextui-org/react": "^2.0.16",
+    "@nextui-org/button": "^2.0.9",
+    "@nextui-org/link": "^2.0.9",
+    "@nextui-org/navbar": "^2.0.9",
+    "@nextui-org/system": "^2.0.5",
+    "@nextui-org/theme": "^2.0.4",
     "@types/node": "20.4.10",
     "@types/react": "18.2.20",
     "@types/react-dom": "18.2.7",
