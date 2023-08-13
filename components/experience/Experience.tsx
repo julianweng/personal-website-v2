@@ -8,7 +8,7 @@ export default function Project({ name, title, location, duration, description, 
         <Card className="w-5/6 md:max-w-[600px]">
             <CardHeader className="flex gap-3">
                 <Image
-                    alt="{duration} logo"
+                    alt={name}
                     height={40}
                     radius="sm"
                     src={imgUrl}

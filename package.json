@@ -11,6 +11,7 @@
   "dependencies": {
     "@nextui-org/button": "^2.0.9",
     "@nextui-org/card": "^2.0.9",
+    "@nextui-org/chip": "^2.0.10",
     "@nextui-org/divider": "^2.0.8",
     "@nextui-org/image": "^2.0.9",
     "@nextui-org/link": "^2.0.9",
