@@ -10,7 +10,7 @@ export default function Navbar() {
     return (
         <NextUINavbar shouldHideOnScroll isBordered>
             <NavbarBrand>
-                <p className="font-bold text-inherit">rohan moniz</p>
+                <Link className="font-bold text-inherit" href="#">rohan moniz</Link>
             </NavbarBrand>
             <NavbarContent className="hidden sm:flex gap-6" justify="end">
                 <NavbarItem>
