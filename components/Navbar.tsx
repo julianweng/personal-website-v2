@@ -29,8 +29,8 @@ export default function Navbar() {
                     </Link>
                 </NavbarItem>
                 <NavbarItem>
-                    <Link color="foreground" href="#misc">
-                        misc.
+                    <Link color="foreground" href="#other">
+                        other
                     </Link>
                 </NavbarItem>
             </NavbarContent>
