@@ -73,3 +73,10 @@ export const projects = [
         imgUrl: "vapeescape.jpg",
     },
 ]
+
+export const info = {
+    linkedin: "https://www.linkedin.com/in/rohan-moniz/",
+    github: "https://github.com/rm03",
+    email: "mailto:rmoniz@seas.upenn.edu",
+    resume: "resume.pdf"
+}
