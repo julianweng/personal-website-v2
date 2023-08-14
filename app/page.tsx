@@ -8,8 +8,14 @@ export default function Page() {
     <div>
       <Hero />
       <About />
-      <ExperienceLayout />
-      <ProjectLayout />
+      <div className="grid grid-cols-6 md:grid-cols-12 w-screen">
+        <div className="col-span-6">
+          <ExperienceLayout />
+        </div>
+        <div className="col-span-6">
+          <ProjectLayout />
+        </div>
+      </div>
     </div>
   );
 }
