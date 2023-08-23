@@ -4,7 +4,7 @@ export const experiences = [
         title: "Teaching Assistant",
         location: "Philadelphia, PA",
         duration: "August 2023 – Present",
-        description: "Teaching assistant for NETS 2120: Scalable and Cloud Computing.",
+        description: "Teaching assistant for CIS 3310: Introduction to Networks and Security.",
         imgUrl: "penn.png",
     },
     {
