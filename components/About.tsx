@@ -17,7 +17,7 @@ export default function About() {
                     <Card className="w-5/6 md:max-w-[800px]">
                         <CardBody>
                             <p>
-                                Hey! I&apos;m a junior at the University of Pennsylvania pursuing a Bachelor of Science in Engineering (BSE) in Computer Science, with a minor in Mathematics. I&apos;m an avid learner and problem-solver, and really enjoy working with others. I&apos;m passionate about building systems to solve real-world problems at scale.
+                                Hey! I&apos;m a junior at the University of Pennsylvania pursuing a BSE and MSE in Computer Science, with a minor in Mathematics. I&apos;m an avid learner and problem-solver, and really enjoy working with others. I&apos;m passionate about building systems to solve real-world problems at scale.
                                 <br/><br/>
                                 Outside of classes and clubs, you can find me watching sports (mainly tennis, basketball, and F1), running along the Schuylkill River, or eating mint chocolate chip ice cream.
                             </p>
